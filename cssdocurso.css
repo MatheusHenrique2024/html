@@ -1,0 +1,77 @@
+body , ul{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body{
+    /* background: url(fundo2.webp); */
+    height: 100vh;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-color: rgb(73, 155, 155);
+    background-size: cover;
+
+}
+
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: sans-serif;
+}
+ 
+a:hover{
+    background: rgba(0 ,0, 0, .05);
+}
+
+#logo{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+
+}
+
+#header{
+    box-sizing: border-box;
+    height: 70px;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgb(39, 39, 39);
+    border-radius: 9px;
+    bor
+}
+
+#menu ul {
+    float: right;
+ }
+ 
+
+#menu ul li{
+    display: inline;
+    margin-left: 20px;
+    font-size: 15px;
+    position: relative;
+    float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+p{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+
+}

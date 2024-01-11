@@ -1,0 +1,19 @@
+div{
+    width:200px;
+    height: 200px;;
+
+   background: rebeccapurple;
+
+    border-radius:16px ;
+
+    
+}
+
+body{
+    height: 100vh;
+    background-image: url(fundo.webp);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-color: aqua;
+    background-size: 100%;
+}
